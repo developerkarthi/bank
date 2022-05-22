@@ -1,3 +1,4 @@
+//ok done
 import java.util.*;
 public class CoderBank {
 	Scanner in = new Scanner(System.in);
